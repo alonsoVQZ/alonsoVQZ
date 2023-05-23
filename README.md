@@ -5,7 +5,7 @@ function about() {\
 }
 
 ## Contact
-### LinkedIn(https://www.linkedin.com/in/vqzmata/)
+### [LinkedIn](https://www.linkedin.com/in/vqzmata/)
 ### vqzmata@gmail.com
 
 
