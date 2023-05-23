@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## Skills
+<link type="image/png" sizes="32x32" rel="icon" href=".../icons8-python-32.png">
+
 <!--
 **alonsoVQZ/alonsoVQZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
