@@ -6,7 +6,7 @@ function about() {\
 
 ## Contact
 ### [LinkedIn](https://www.linkedin.com/in/vqzmata/)
-### vqzmata@gmail.com
+### aoavzm@gmail.com
 
 
 ## Skills
