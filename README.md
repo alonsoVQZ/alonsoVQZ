@@ -1,7 +1,10 @@
-### Hi there 👋
+### console.log("Hello World")
+
+##Contact
+[![icons8-linkedin-48](https://github.com/alonsoVQZ/alonsoVQZ/assets/94940188/db5be274-aed1-4e06-b3b5-1231f6d77431)](https://www.linkedin.com/in/vqzmata/)
+
 
 ## Skills
-
 ![icons8-javascript-48](https://github.com/alonsoVQZ/alonsoVQZ/assets/94940188/1f587677-6677-4835-b2e0-81dfc47e6b35)
 ![icons8-python-48](https://github.com/alonsoVQZ/alonsoVQZ/assets/94940188/b072da6f-eb4e-476e-9730-92f6ac864f31)
 ![icons8-flask-48](https://github.com/alonsoVQZ/alonsoVQZ/assets/94940188/0f70675d-5f3f-4a39-ae08-3fbde2952704)
