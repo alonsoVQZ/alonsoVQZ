@@ -1,7 +1,7 @@
 # console.log("Hello World")
 
-function about() {\
-&nbsp;&nbsp;&nbsp;&nbsp;return \
+function greeting() {\
+&nbsp;&nbsp;&nbsp;&nbsp;return "Welcome to my profile! I hope you find what you're looking for"\
 }
 
 ## Contact
