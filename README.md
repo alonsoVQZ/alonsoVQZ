@@ -1,4 +1,4 @@
-# Hi There
+# Hi There, I'm Alonso Vazquez
 
 - 🔭 I’m currently working on Currently, I am working on improving my projects developed during my bootcamp and creating a website that displays real-time performance of the machines used in my company.
 - 🌱 I’m currently learning python libraries related with Automation
