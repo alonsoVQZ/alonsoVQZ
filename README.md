@@ -1,8 +1,11 @@
-# console.log("Hello World")
+# Hi There
 
-function greeting() {\
-&nbsp;&nbsp;&nbsp;&nbsp;return "Welcome to my profile! I hope you find what you're looking for"\
-}
+- 🔭 I’m currently working on Currently, I am working on improving my projects developed during my bootcamp and creating a website that displays real-time performance of the machines used in my company.
+- 🌱 I’m currently learning python libraries related with Automation
+- 👯 I’m looking to collaborate on on projects that push the boundaries of innovation and bring new ideas to life.
+- 🤔 I am looking to help in the development of libraries for industrial automation communication
+- 💬 Ask me about how to create historian with Python and ReactJS
+- ⚡ Fun fact: I love programming
 
 ## Contact
 ### [LinkedIn](https://www.linkedin.com/in/vqzmata/)
